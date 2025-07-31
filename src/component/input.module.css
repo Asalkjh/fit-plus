@@ -1,0 +1,16 @@
+
+
+
+
+.input label{
+    display: block;
+    text-align: right;
+}
+
+.input input{
+    width: 100%;
+    padding: 10px 0px;
+    margin-top: 10px;
+    border-radius: 3px;
+    border: 1px solid #777;
+}

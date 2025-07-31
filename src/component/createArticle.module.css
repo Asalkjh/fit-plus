@@ -1,0 +1,25 @@
+
+
+.createArticle button{
+    width: 100px;
+    background-color: #199af0;
+    border: none;
+    height: 40px;
+    border-radius: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    
+
+
+}
+
+.secces{
+    width: 300px;
+    padding: 5px 0px;
+    background-color: #24cf2c;
+    border-radius: 30px;
+    position: absolute;
+    right: -1500px;
+    transition: 1s;
+    
+}

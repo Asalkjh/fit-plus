@@ -1,0 +1,28 @@
+
+
+
+
+.articlePageSec{
+    display: flex;
+    justify-content: end;
+    flex-direction: row-reverse;
+
+
+}
+.articlePageSec span{
+    padding: 15px;
+}
+
+.articlePageContent{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.articlePageContent img{
+    width: 50%;
+    margin: auto;
+    
+}

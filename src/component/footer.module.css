@@ -1,0 +1,41 @@
+
+
+.footer{
+    width: 100%;
+    background-color: #333;
+    height: 350px;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 0px 50pgit x 0px 0px;
+    
+
+    
+}
+
+.footerRight{
+    width: 50%;
+    border-left: 1px solid #fff;
+    padding: 0px 10px;
+}
+
+.footerRight p{
+    color: #fff;
+    padding: 10px 0px;
+}
+
+.footerRight span{
+    color: #fff;
+    padding: 0px 5px;
+}
+
+.spanLink{
+    display: flex;
+    justify-content: right;
+}
+
+.footerLeft img{
+    height: 100%;
+    width: 100%;
+
+}

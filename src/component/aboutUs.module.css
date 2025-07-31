@@ -1,0 +1,13 @@
+.aboutUs{
+    display: flex;
+    flex-direction: column;
+}
+
+.aboutUs h1{
+    margin-right: 10px;
+
+}
+
+.aboutUs img{
+    margin: auto;
+}
